@@ -6,7 +6,7 @@
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://react.dev/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED.svg)](https://www.docker.com/)
 [![Ollama](https://img.shields.io/badge/Ollama-local%20LLM-black.svg)](https://ollama.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 AI-powered movie recommendation platform built with React, FastAPI, PostgreSQL, Docker, and Ollama. CineMatch combines collaborative filtering, content-based recommendation, and natural language search to help users discover movies through both traditional filtering and conversational AI.
 
@@ -347,9 +347,4 @@ Subsequent requests are significantly faster.
 
 Movie posters are loaded from TMDB's public image CDN and require internet access.
 
----
 
-
-## License
-
-MIT License
